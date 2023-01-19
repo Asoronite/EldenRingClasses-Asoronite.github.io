@@ -1,7 +1,7 @@
 const classes = [
   {
     name: " Astrologer",
-    bild: "pics/astrologer_class_elden_ring_wiki_guide_200px.png",
+    bild: "astrologer_class_elden_ring_wiki_guide_200px.png",
     vigor: "Vigor 9",
     mind: "Mind 15",
     endurance: "Endurance 9",
