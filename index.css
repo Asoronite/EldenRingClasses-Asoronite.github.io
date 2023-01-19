@@ -1,0 +1,97 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'MedievalSharp', cursive;
+  
+}
+body{
+background-image: url(Pics/elden-ring-wallpaper-liurnia-view-1.webp);
+  background-position: left bottom;
+  background-attachment:fixed;
+  background-size: cover;
+}
+#TitleAbove{
+  text-align: center;
+  background-color: rgb(172, 156, 67);
+  padding: 15px;
+  margin-bottom: 32px;
+}
+#turko{
+  margin: auto;
+  width: 23rem;
+  height: 5px;
+  background-color: rgb(98, 178, 155);
+}
+.allContent{
+  border: 1px solid rgb(172, 156, 67);
+  display: flex;
+  margin: auto;
+  flex-direction: column;
+  width: 360px;
+  border-radius: 20px;
+  background-color: rgb(98, 178, 155);
+}
+.className{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+.line{
+  width: 11rem;
+  height: 4px;
+  background-color: black;
+  margin: auto;
+}
+.pic{
+  width: auto;
+  margin: auto;
+  background-color: rgb(172, 156, 67);
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+}
+.liste{
+  margin: auto;
+  margin-top: 0px;
+  border: 1px solid rgb(172, 156, 67);
+  text-align: left;
+  display: grid;
+  grid-template-columns: 130px 350px;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-template-areas: 
+  "listedItem listedItem"
+  "listedItem listedItem"
+  "listedItem listedItem"
+  "listedItem listedItem";
+  gap: 6px;
+  width: 280px;
+  padding: 3px;
+  background-color: rgb(172, 156, 67);
+}
+.btns{
+  display: flex;
+  align-items: center;
+  background-color: rgb(172, 156, 67);
+  text-align: center;
+  margin: auto;
+  border: 3px solid black;
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.arrow{
+  width: max-content;
+  margin: 5px;
+}
+#random{
+  font-size: 18px;
+  background-color: rgb(98, 178, 155);
+  padding: 3px;
+}
+#random:active{
+  opacity: 0.5;
+}
+.arrow:active{
+  opacity: 0.5;
+}
