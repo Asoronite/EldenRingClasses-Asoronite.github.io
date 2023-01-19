@@ -134,7 +134,7 @@ let currentClass = 0
 function allContent (a) {
     a = currentClass;
     className.innerHTML = classes[a].name;
-    bild.src = classes[a].bild;
+    bild.src = classes[a]..bild;
     vigor.innerHTML = classes[a].vigor;
     mind.innerHTML = classes[a].mind;
     endurance.innerHTML = classes[a].endurance;
