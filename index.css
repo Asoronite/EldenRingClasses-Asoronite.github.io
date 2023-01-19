@@ -80,6 +80,7 @@ background-image: url(pics/elden-ring-wallpaper-liurnia-view-1.png);
   padding: 5px;
   margin-top: 10px;
   margin-bottom: 10px;
+  font-weight: bold;
 }
 .arrow{
   width: max-content;
