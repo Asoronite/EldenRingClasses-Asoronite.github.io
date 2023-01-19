@@ -1,7 +1,7 @@
 const classes = [
   {
     name: " Astrologer",
-    bild: "pics/astrologer_class_elden_ring_wiki_guide_200px.png",
+    bild: "pics/astrologer_class_elden_ring_wiki_guide_200px.PNG",
     vigor: "Vigor 9",
     mind: "Mind 15",
     endurance: "Endurance 9",
@@ -25,7 +25,7 @@ const classes = [
   },
   {
     name: " Bandit",
-    bild: "pics/bandit_class_elden_ring_wiki_guide_200px.png",
+    bild: "pics/bandit_class_elden_ring_wiki_guide_200px.PNG",
     vigor: "Vigor 15",
     mind: "Mind 11",
     endurance: "Endurance 10",
@@ -37,7 +37,7 @@ const classes = [
   },
   {
     name: " Hero",
-    bild: "pics/hero_class_elden_ring_wiki_guide_200px.png",
+    bild: "pics/hero_class_elden_ring_wiki_guide_200px.PNG",
     vigor: "Vigor 14",
     mind: "Mind 9",
     endurance: "Endurance 12",
@@ -49,7 +49,7 @@ const classes = [
   },
   {
     name: " Warrior",
-    bild: "pics/warrior_class_elden_ring_wiki_guide_200px.png",
+    bild: "pics/warrior_class_elden_ring_wiki_guide_200px.PNG",
     vigor: "Vigor 11",
     mind: "Mind 12",
     endurance: "Endurance 11",
@@ -61,7 +61,7 @@ const classes = [
   },
   {
     name: " Wretch",
-    bild: "pics/wretch_class_elden_ring_wiki_guide_200px.png",
+    bild: "pics/wretch_class_elden_ring_wiki_guide_200px.PNG",
     vigor: "Vigor 10",
     mind: "Mind 10",
     endurance: "Endurance 10",
@@ -73,7 +73,7 @@ const classes = [
   },
   {
     name: " Confessor",
-    bild: "pics/confessor_class_elden_ring_wiki_guide_200px.png",
+    bild: "pics/confessor_class_elden_ring_wiki_guide_200px.PNG",
     vigor: "Vigor 10",
     mind: "Mind 13",
     endurance: "Endurance 10",
@@ -85,7 +85,7 @@ const classes = [
   },
   {
     name: " Prisoner",
-    bild: "pics/prisoner_class_elden_ring_wiki_guide_200px.png",
+    bild: "pics/prisoner_class_elden_ring_wiki_guide_200px.PNG",
     vigor: "Vigor 11",
     mind: "Mind 12",
     endurance: "Endurance 11",
@@ -97,7 +97,7 @@ const classes = [
   },
   {
     name: " Prophet",
-    bild: "pics/prophet_class_elden_ring_wiki_guide_200px.png",
+    bild: "pics/prophet_class_elden_ring_wiki_guide_200px.PNG",
     vigor: "Vigor 10",
     mind: "Mind 14",
     endurance: "Endurance 8",
@@ -109,7 +109,7 @@ const classes = [
   },
   {
     name: " Samurai",
-    bild: "pics/samurai_class_elden_ring_wiki_guide_200px.png",
+    bild: "pics/samurai_class_elden_ring_wiki_guide_200px.PNG",
     vigor: "Vigor 12",
     mind: "Mind 11",
     endurance: "Endurance 13",
