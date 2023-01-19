@@ -89,6 +89,7 @@ background-image: url(pics/elden-ring-wallpaper-liurnia-view-1.png);
   font-size: 18px;
   background-color: rgb(98, 178, 155);
   padding: 3px;
+  font-weight: bold;
 }
 #random:active{
   opacity: 0.5;
