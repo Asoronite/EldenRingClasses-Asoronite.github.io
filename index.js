@@ -13,7 +13,7 @@ const classes = [
   },
   {
     name: " Vagabond",
-    bild: "pics/vagabond_class_elden_ring_wiki_guide_200px.png",
+    bild: "pics/vagabond_class_elden_ring_wiki_guide_200px.PNG",
     vigor: "Vigor 15",
     mind: "Mind 10",
     endurance: "Endurance 11",
